@@ -5,6 +5,9 @@ Shopping in modern retail environments relies heavily on visual interfaces, crea
 
 The system integrates speech recognition, real-time object detection, automated billing, and text-to-speech feedback to provide an inclusive, hands-free shopping experience.
 
+##  Prototype
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e23cf8c2-04dc-4022-80ec-0e392ca71c20" />
+
 ---
 
 ##  Objectives
